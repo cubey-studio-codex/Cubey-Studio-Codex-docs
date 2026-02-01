@@ -3,11 +3,13 @@
 Cubey Studio is built using a layered architecture.
 
 ## High-Level Overview
+```
 Cubey Studio (MAUI) 
 └── WebView 
     └── Cubey Web Editor (Monaco) 
         └── Language Server (LSP) 
             └── Cubey Engine (C++)
+```
 
 ## Components
 
