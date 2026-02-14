@@ -7,7 +7,7 @@ creative tools and interactive applications.
 
 Cubey Studio is composed of multiple independent projects:
 
-- **Cubey Studio Codex** — The main IDE (C# + .NET MAUI)
+- **Cubey Studio Codex** — The main IDE (TypeScript + Electron)
 
 ## Technology Stack
 
